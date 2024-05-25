@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/NorthwindMVC5.props" />
+</Project>

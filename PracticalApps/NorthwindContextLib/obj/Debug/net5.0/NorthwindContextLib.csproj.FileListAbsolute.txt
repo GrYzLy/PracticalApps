@@ -1,0 +1,15 @@
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindContextLib.deps.json
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindContextLib.dll
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindContextLib.pdb
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindEntitiesLib.dll
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindEntitiesLib.pdb
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.csproj.AssemblyReference.cache
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.AssemblyInfoInputs.cache
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.AssemblyInfo.cs
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.csproj.CoreCompileInputs.cache
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.csproj.CopyComplete
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.dll
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/refint/NorthwindContextLib.dll
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.pdb
+/Users/barrze/Dev/cs9dotnet5-master/PracticalApps/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/ref/NorthwindContextLib.dll
